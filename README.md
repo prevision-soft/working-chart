@@ -52,8 +52,8 @@ It should look like this
 
 ## Quick start for locally run
 ```
-=> git clone https://github.com/Bepul-Hossain/all-person-contract.git
-(Go to 'all-person-contact' folder then)
+=> git clone https://github.com/prevision-soft/working-chart.git
+(Go to 'working-chart' folder then)
 => npm i
 (Don't forgot to change MONGO_URI. You may follow the step 2)
 => npm run server

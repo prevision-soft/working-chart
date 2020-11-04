@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 8080; // Step 1
 
 // Step 2
 mongoose.connect(
-  process.env.MONGO_URI || "mongodb://localhost/contactPerson",
+  process.env.MONGO_URI || "mongodb://localhost/workingchart",
   {
     useNewUrlParser: true,
   },
